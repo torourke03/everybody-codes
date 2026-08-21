@@ -1,0 +1,17 @@
+*/*/.gitignore
+
+# IDE files
+**/.vscode
+**/.idea
+**/.clang*
+**/.editorconfig
+**/.gitattributes
+
+**/CMakeLists.txt
+**/cmake-build-debug
+**/.venv
+**/out
+**/Day*.iml
+
+# Input files
+**/*.txt
