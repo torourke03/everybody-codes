@@ -14,4 +14,13 @@
 **/Day*.iml
 
 # Input files
-**/*.txt
+example*
+input*
+everybody_codes*
+*notes*
+
+# Output files
+part1
+part2
+part3
+output*
